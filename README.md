@@ -1,4 +1,4 @@
-# health-Tweets
+# Visualising emotion in health tweets
 Background: I've used Textblob sentiment analysis and Matplotlib to illustrate the relationship between sentiment polarity and subjectivity. This was inspired by a piece of internal work, recreated using publicly available data. Because I discovered a fascinating relationship between sentiment polarity and subjectivity. 
 
 ## Things to have handy before you start: 
