@@ -9,7 +9,8 @@ I used these Python libraries:
 - textblob
 - regex
 - matplotlib
-It goes without saying, you'll want these installed before running the notebook. 🙂 
+
+It goes without saying, you'll want these ☝️ installed before running the notebook. 🙂 
 
 If you have a Twitter developer account, make sure you have those details handy. If you don't have a Twitter developer account, you need one to access the Twitter API. Getting access approved can take a few days. It's also why I've included the sample datasets below. 👇
 
