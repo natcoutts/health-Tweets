@@ -1,10 +1,21 @@
-# health-Tweets
-Background:
+# Visualising emotion in health tweets
+Background: I've used Textblob sentiment analysis and Matplotlib to illustrate the relationship between sentiment polarity and subjectivity. This was inspired by a piece of internal work, recreated using publicly available data. Because I discovered a fascinating relationship between sentiment polarity and subjectivity. 
 
-Things to have handy before you start: 
+### Things to have handy before you start: 
+I used these Python libraries: 
+- tweepy
+- numpy
+- pandas
+- textblob
+- regex
+- matplotlib
 
-There is a sample dataset included in the repo, if you want to skip accessing Tweets
+It goes without saying, you'll want these ☝️ installed before running the notebook. 🙂 
 
-Using Textblob sentiment analysis and Plotly visualisations to illustrate the relationship between sentiment polarity and subjectivity. This was inspired by a piece of internal work, recreated using publicly available data. Because I discovered a fascinating relationship between sentiment polarity and subjectivity. 
+If you have a Twitter developer account, make sure you have those details handy. If you don't have a Twitter developer account, you need one to access the Twitter API. Getting access approved can take a few days. It's also why I've included the sample datasets below. 👇
 
-This held true for the internal survey data as well as the Twitter data I used.
+There are 2 sample datasets included in the repo: 
+- one if you want to skip accessing the Twitter API and are happy using the existing 20,000 Tweets with keyword 'health' from February 2020
+- another includes the polarity and subjectivity scores for said Tweets, ready for visualisation
+
+Have fun! 🙂
